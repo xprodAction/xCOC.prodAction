@@ -1,20 +1,22 @@
 body {
     margin: 0;
- background: url("../images/jjj.jpg");
+ background: 
+    
+    url("../images/JNRbXZb.gif");
+ 
     font-family: Tahoma;
     line-height: 1.5;
-font-size: 18px;
+    font-size: 18px;}
 
 
-}
 .card {
  width: 400px;
     margin: 30px auto;
     padding: 20px;
     
     background-color: black;
-    box-shadow: 0 100px 10px silver;
-    border-radius: 10px;
+    box-shadow: 0 100px 10px black;
+    border-radius: 100px;
 
 }
 .card-photo {
